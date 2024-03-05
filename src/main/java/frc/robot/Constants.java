@@ -53,7 +53,7 @@ public final class Constants {
 
     public static final double kHomePosition = 0.0;
     public static final double kScoringPosition = 0.0;
-    public static final double kIntakePosition = -1.17;
+    public static final double kIntakePosition = -1.50;
   }
 
   public static final class Intake {
@@ -66,7 +66,7 @@ public final class Constants {
 
     public static final double kIntakePower = 0.7;
 
-    public static final double kRetractDistance = -3.5;
+    public static final double kRetractDistance = -.75;
 
     public static final double kShotFeedTime = 1.0;
   }
